@@ -1,6 +1,6 @@
 #HI
 
-#this is my new change
+# conflict change
 
 # new change on github
 
